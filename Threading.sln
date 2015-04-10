@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingMkII", "ThreadingM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingMkIII", "ThreadingMkIII\ThreadingMkIII.csproj", "{D35393BD-053F-402E-A998-52A6822FD7ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingMkIV", "ThreadingMkIV\ThreadingMkIV.csproj", "{DB873F50-1FE9-4DD2-BEB8-4F54127B3495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingMkV", "ThreadingMkV\ThreadingMkV.csproj", "{F6D174FF-80E9-4CC8-9312-AEF30ED44998}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D35393BD-053F-402E-A998-52A6822FD7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D35393BD-053F-402E-A998-52A6822FD7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D35393BD-053F-402E-A998-52A6822FD7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB873F50-1FE9-4DD2-BEB8-4F54127B3495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB873F50-1FE9-4DD2-BEB8-4F54127B3495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB873F50-1FE9-4DD2-BEB8-4F54127B3495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB873F50-1FE9-4DD2-BEB8-4F54127B3495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D174FF-80E9-4CC8-9312-AEF30ED44998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D174FF-80E9-4CC8-9312-AEF30ED44998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D174FF-80E9-4CC8-9312-AEF30ED44998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D174FF-80E9-4CC8-9312-AEF30ED44998}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
