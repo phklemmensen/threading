@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingMkIV", "ThreadingM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingMkV", "ThreadingMkV\ThreadingMkV.csproj", "{F6D174FF-80E9-4CC8-9312-AEF30ED44998}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingMkVI", "ThreadingMkVI\ThreadingMkVI.csproj", "{2AB5F922-BA94-436D-AD26-EBEC28ED6A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading.WithTimerCallback", "Threading.TimerCallback\Threading.WithTimerCallback.csproj", "{CA1FC7A8-242B-48D0-B7F8-E47D9C41C91E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F6D174FF-80E9-4CC8-9312-AEF30ED44998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D174FF-80E9-4CC8-9312-AEF30ED44998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D174FF-80E9-4CC8-9312-AEF30ED44998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB5F922-BA94-436D-AD26-EBEC28ED6A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB5F922-BA94-436D-AD26-EBEC28ED6A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB5F922-BA94-436D-AD26-EBEC28ED6A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB5F922-BA94-436D-AD26-EBEC28ED6A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1FC7A8-242B-48D0-B7F8-E47D9C41C91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1FC7A8-242B-48D0-B7F8-E47D9C41C91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1FC7A8-242B-48D0-B7F8-E47D9C41C91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1FC7A8-242B-48D0-B7F8-E47D9C41C91E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
